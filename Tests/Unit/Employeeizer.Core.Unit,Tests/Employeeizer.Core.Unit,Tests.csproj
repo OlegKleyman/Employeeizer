@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Employeeizer.Core.Unit_Tests</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\Employeeizer.Core\Employeeizer.Core.csproj" />
+    <ProjectReference Include="..\..\..\Core\Employeeizer.Data\Employeeizer.Data.csproj" />
+  </ItemGroup>
+
+</Project>
